@@ -16,7 +16,7 @@ public class Sistema extends javax.swing.JFrame {
     ClienteDao client = new ClienteDao();
     DefaultTableModel modelo = new DefaultTableModel();
 
-    /**
+    /**xxxxxxx
      * Creates new form Sistema
      */
     public Sistema() {
