@@ -6,7 +6,7 @@ import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
+/**YOSTIN EJEMPLO
  *
  * @author Titi
  */
@@ -16,7 +16,7 @@ public class Sistema extends javax.swing.JFrame {
     ClienteDao client = new ClienteDao();
     DefaultTableModel modelo = new DefaultTableModel();
 
-    /**xxxxxxx
+    /**
      * Creates new form Sistema
      */
     public Sistema() {
